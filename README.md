@@ -1,2 +1,2 @@
-# dataset
-fsdj
+# digit recognition of kannad language.
+
